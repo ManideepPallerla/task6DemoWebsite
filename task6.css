@@ -1,0 +1,18 @@
+h1{
+    color:crimson;
+}
+body{
+    background-color:#e4de16a6;
+}
+table{
+    background-color: wheat;
+}
+form{
+    background-color: wheat;
+    width: 24%;
+    height: 20%;
+}
+details{
+    background-color: wheat;
+    width: 25%;
+}
